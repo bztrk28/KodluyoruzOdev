@@ -1,0 +1,46 @@
+/* Genel */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Ana Sayfa */
+h1 {
+    font-size: 24px;
+}
+
+/* Hakkımızda ve İletişim */
+h2 {
+    font-size: 20px;
+}
+
+address {
+    font-style: normal;
+}
+
+ul {
+    list-style-position: inside;
+}
